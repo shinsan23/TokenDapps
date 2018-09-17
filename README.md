@@ -1,9 +1,9 @@
 # TokenDapps
 トークン取引Dappsサンプル
 
-git clone https://github.com/shinsan23/daaps_practice.git
-
-cd daaps_practice
+git clone https://github.com/shinsan23/TokenDapps.git
+          
+cd TokenDapps
 
 npm install
 
